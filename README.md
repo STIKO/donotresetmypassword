@@ -1,5 +1,5 @@
 # donotresetmypassword
-I usually need to log in with my apple ID and don't want anyone to be able to access my personal 
+I usually need to log in with my apple ID and don't want anyone (admin or whoever) to be able to access my personal 
 info, so I wrote this to log me out, removes all files then removes my user.
 
 # Install
